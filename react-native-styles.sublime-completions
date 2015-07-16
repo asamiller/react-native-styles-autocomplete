@@ -1,0 +1,59 @@
+{
+  "scope": "source.js, source.jsx",
+
+  "completions":
+  [
+    { "trigger": "flex", "contents": "flex: $1," },
+    { "trigger": "width", "contents": "width: $1," },
+    { "trigger": "height", "contents": "height: $1," },
+    { "trigger": "top", "contents": "top: $1," },
+    { "trigger": "left", "contents": "left: $1," },
+    { "trigger": "right", "contents": "right: $1," },
+    { "trigger": "bottom", "contents": "bottom: $1," },
+    { "trigger": "margin", "contents": "margin: $1," },
+    { "trigger": "marginVertical", "contents": "marginVertical: $1," },
+    { "trigger": "marginHorizontal", "contents": "marginHorizontal: $1," },
+    { "trigger": "marginTop", "contents": "marginTop: $1," },
+    { "trigger": "marginBottom", "contents": "marginBottom: $1," },
+    { "trigger": "marginLeft", "contents": "marginLeft: $1," },
+    { "trigger": "marginRight", "contents": "marginRight: $1," },
+    { "trigger": "padding", "contents": "padding: $1," },
+    { "trigger": "paddingVertical", "contents": "paddingVertical: $1," },
+    { "trigger": "paddingHorizontal", "contents": "paddingHorizontal: $1," },
+    { "trigger": "paddingTop", "contents": "paddingTop: $1," },
+    { "trigger": "paddingBottom", "contents": "paddingBottom: $1," },
+    { "trigger": "paddingLeft", "contents": "paddingLeft: $1," },
+    { "trigger": "paddingRight", "contents": "paddingRight: $1," },
+    { "trigger": "borderWidth", "contents": "borderWidth: $1," },
+    { "trigger": "borderTopWidth", "contents": "borderTopWidth: $1," },
+    { "trigger": "borderRightWidth", "contents": "borderRightWidth: $1," },
+    { "trigger": "borderBottomWidth", "contents": "borderBottomWidth: $1," },
+    { "trigger": "borderLeftWidth", "contents": "borderLeftWidth: $1," },
+
+    { "trigger": "position: absolute", "contents": "position: 'absolute'," },
+    { "trigger": "position: relative", "contents": "position: 'relative'," },
+
+    { "trigger": "flexDirection: row", "contents": "flexDirection: 'row'," },
+    { "trigger": "flexDirection: column", "contents": "flexDirection: 'column'," },
+
+    { "trigger": "flexWrap: wrap", "contents": "flexWrap: 'wrap'," },
+    { "trigger": "flexWrap: nowrap", "contents": "flexWrap: 'nowrap'," },
+
+    { "trigger": "justifyContent: flex-start", "contents": "justifyContent: 'flex-start'," },
+    { "trigger": "justifyContent: flex-end", "contents": "justifyContent: 'flex-end'," },
+    { "trigger": "justifyContent: center", "contents": "justifyContent: 'center'," },
+    { "trigger": "justifyContent: space-between", "contents": "justifyContent: 'space-between'," },
+    { "trigger": "justifyContent: space-around", "contents": "justifyContent: 'space-around'," },
+
+    { "trigger": "alignItems: flex-start", "contents": "alignItems: 'flex-start'," },
+    { "trigger": "alignItems: flex-end", "contents": "alignItems: 'flex-end'," },
+    { "trigger": "alignItems: center", "contents": "alignItems: 'center'," },
+    { "trigger": "alignItems: stretch", "contents": "alignItems: 'stretch'," },
+
+    { "trigger": "alignSelf: auto", "contents": "alignSelf: 'auto'," },
+    { "trigger": "alignSelf: flex-start", "contents": "alignSelf: 'flex-start'," },
+    { "trigger": "alignSelf: flex-end", "contents": "alignSelf: 'flex-end'," },
+    { "trigger": "alignSelf: center", "contents": "alignSelf: 'center'," },
+    { "trigger": "alignSelf: stretch", "contents": "alignSelf: 'stretch'," }
+  ]
+}
